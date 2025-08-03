@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsingh4321&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsingh4321" /> </p>
 
-- 🌱 I’m currently working on my project..SoulSync **Springboot**  
+- 🌱 I’m currently working on my project...**SoulSync**  
 - 💬 Ask me about **Android dev, problem solving**  
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1un4drY0nxi9fPsKTDNhMZnDRpVxKL9ge/view?usp=sharing)  
 - ⚡ Fun fact **I can write code in multiple languages—but I still argue with myself about tabs vs. spaces.**
